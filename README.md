@@ -16,7 +16,7 @@ Regression Analysis for establishing a relation between response and regressor v
 
 **For more details about the project please refer to [**"Project Report PPT.pdf"**][1]**
 
-[1]: https://github.com/anirudhjak06/GreenGrocery/blob/main/Green%20Grocery%20Documentation.pdf "Title"
+[1]: https://github.com/anirudhjak06/Regression-Analysis-in-R/blob/main/Project%20Report.pdf "Title"
 
 
 ## Get Started
@@ -27,7 +27,7 @@ The below steps show how to get started with the code running!.
 - The packages mentioned in the top of the code must be intsalled.
 - The Life Expectancy Dataset must be installed for using/importing it.
 
-By, following these steps, the code will start executing smoothly without no errors. 
+By following these steps, the code will start executing smoothly without no errors. 
 
 ## Group Members
 
