@@ -4,7 +4,7 @@
 Regression Analysis for establishing a relation between response and regressor variables.
 
 ## Problem Statement
-* We are given a [**life expectancy dataset**][2]. We need to solve taks such as
+* We are given a [**Life Expectancy Dataset**][2]. We need to solve taks such as
   * 1) Does Life Expectancy have positive or negative relationship with drinking alcohol?
   * 2) Report your relation analysis with the following approaches
         * Simple linear regression analysis.
