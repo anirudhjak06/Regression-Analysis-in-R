@@ -22,9 +22,9 @@ Regression Analysis for establishing a relation between response and regressor v
 ## Get Started
 
 The below steps show how to get started with the code running!.
-- We need to have R installed in our computer.
+- We need to have R installed on our computer.
 - Its better if R studio is also installed for easier code execution.
-- The packages mentioned in the top of the code must be intsalled.
+- The packages mentioned in the top of the code must be installed.
 - The Life Expectancy Dataset must be installed for using/importing it.
 
 By following these steps, the code will start executing smoothly without no errors. 
